@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-heap",
+  "name": "@astronomerio/analytics.js-integration-heap",
   "description": "The Heap analytics.js integration.",
   "version": "2.0.3",
   "keywords": [
