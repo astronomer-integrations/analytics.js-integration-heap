@@ -1,4 +1,16 @@
 
+2.1.1 / 2018-07-06
+==================
+
+  * Merge pull request #14 from segment-integrations/revert_heap_issue
+
+2.1.0 / 2018-05-21
+==================
+
+  * Update heap integration for heap.js v4 (#12)
+  * Bump a.js-int-tester version to ^3.1.0 (#10)
+  * Pin karma, karma-mocha dev dependencies (#9)
+
 2.0.3 / 2016-09-07
 ==================
 
